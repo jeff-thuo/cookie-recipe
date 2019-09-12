@@ -1,7 +1,7 @@
 # COOKIE RECIPE
-### NA,ME OF CONTRIBUTORS:
+### NAME OF CONTRIBUTORS:
 * Jeff thuo
-* josphat njoroge
+* Josphat njoroge
 
 ## Project description :
 this projects is among the elementary sites in the full-stack lerning path.
